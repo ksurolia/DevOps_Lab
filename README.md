@@ -1,2 +1,1 @@
-# DevOps_Lab
-DevOps_Lab
+Lab on GIT , Docker and Jenkins
